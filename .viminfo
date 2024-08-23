@@ -21,13 +21,20 @@
 # Registers:
 
 # File marks:
-'0  2  11  ~/test/test_t
+'0  1  0  ~/.git/COMMIT_EDITMSG
+'1  2  11  ~/test/test_t
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  2  11  ~/test/test_t
+-'  1  0  ~/test/test_t
 -'  2  11  ~/test/test_t
 -'  1  0  ~/test/test_t
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	"	1	0
 
 > ~/test/test_t
 	"	2	11
